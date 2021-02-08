@@ -1,0 +1,2 @@
+Install-windowsFeature Routing -IncludeManagementTools
+Restart-Computer
